@@ -6,6 +6,8 @@
 
 ## วิธีใช้งาน
 
+ต้องลง NodeJS ก่อน [สามารถดาวน์โหลดได้ที่นี่](https://nodejs.org/en/)
+
 วิธี require module
 ```js
 const calculator = require('calculator-katesuphapan')
