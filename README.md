@@ -18,3 +18,7 @@ const calculator = require('calculator-katesuphapan')
 ```js
 calculator.plus(1,2) 
 ```
+
+Then Let's chill
+
+![chill-chilling-feet-91223](https://user-images.githubusercontent.com/53287097/61846554-b2a3fc00-aed1-11e9-9445-3a986fa0e83c.jpg)
